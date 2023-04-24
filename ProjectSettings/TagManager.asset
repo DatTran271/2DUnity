@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Weapon_Hitbox
+  - Health
+  - Object
+  - Enemy_bullet
+  - Dummy
+  - Scene
+  - Boss
+  - Boss_ske
+  - rune1
+  - rune2
+  - Health1
+  - NPC
+  - Gem
+  - slotHeal
+  - HealthPotion
+  - item
+  - Point_2
+  - Point_4
+  - Point_1
+  - Point_3
+  - PointTop
+  - PointBottom
+  - Boss_octopus
+  - Boss_Guide
+  - Boss_bear
+  - Boss_bat
+  - Boss_bee
+  - buff
+  - Buff
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - TextIntro
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
+  - Test
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer 1
+    uniqueID: 2425651459
+    locked: 0
+  - name: Layer 2
+    uniqueID: 4250941897
+    locked: 0
+  - name: Layer 3
+    uniqueID: 4189426099
+    locked: 0
+  - name: Layer 4
+    uniqueID: 1438236361
+    locked: 0

@@ -1,0 +1,3 @@
+Hello there
+Right is maze
+Go to find the exit
